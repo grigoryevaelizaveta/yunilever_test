@@ -129,7 +129,7 @@ def send_email(file_path, recipient_email, subject, sender_email, sender_passwor
 
 if __name__ == "__main__":
     file_path = r"C:\Users\User\Desktop\TestTask2.xlsx"
-    recipient_email = "1032199566@yandex.ru" 
+    recipient_email = "****@yandex.ru" 
     sender_email = "****@yandex.ru"
     sender_password = "****" 
     subject = "Список тем для доклада"
